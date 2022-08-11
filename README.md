@@ -19,3 +19,14 @@ Link: http://visualdslab.com/largenetvis
 ## Preprint paper
 
 The article is freely available on arXiv in a preprint version: [https://doi.org/10.48550/arXiv.2208.04358](https://doi.org/10.48550/arXiv.2208.04358).
+
+
+## Visualization example
+
+An example of the LargeNetVis system using a large network:
+
+![LargeNetVis](https://user-images.githubusercontent.com/2184371/184152023-4929e797-7aba-4144-8c90-dd8a4001bbe9.png)
+
+* This Twitter network has 50,514 nodes (Twitter users) and  108,132 edges distributed in 224 timestamps, each comprising a 1-h interval.
+* When using 100 timeslices for analysis, the network is decomposed into 2,033 communities.
+* The selected community represented in the super node-link diagram (D) has 3,886 nodes and 5,035 edges.

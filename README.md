@@ -14,3 +14,8 @@ https://user-images.githubusercontent.com/2184371/183482112-11f4d039-c43d-4eaf-8
 ## Software demonstration
 
 Link: http://visualdslab.com/largenetvis
+
+
+## Preprint paper
+
+The article is freely available on arXiv in a preprint version: [https://doi.org/10.48550/arXiv.2208.04358](https://doi.org/10.48550/arXiv.2208.04358).

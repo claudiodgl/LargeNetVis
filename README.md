@@ -20,7 +20,7 @@ Link: http://visualdslab.com/largenetvis
 
 The system was first published in 2022 on the IEEE Transactions on Visualization and Computer Graphics (TVCG) journal.
 
-* C. D. G. Linhares, J. R. Ponciano, et al., "CLargeNetVis: Visual Exploration of Large Temporal Networks Based On Community Taxonomies," in IEEE Transactions on Visualization and Computer Graphics, doi: [https://doi.org/10.1109/TVCG.2022.3209477](https://doi.org/10.1109/TVCG.2022.3209477).
+* C. D. G. Linhares, J. R. Ponciano, et al., "LargeNetVis: Visual Exploration of Large Temporal Networks Based On Community Taxonomies," in IEEE Transactions on Visualization and Computer Graphics, doi: [https://doi.org/10.1109/TVCG.2022.3209477](https://doi.org/10.1109/TVCG.2022.3209477).
 
 * ```sh
   @ARTICLE{9903295,

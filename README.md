@@ -16,11 +16,28 @@ https://user-images.githubusercontent.com/2184371/183482112-11f4d039-c43d-4eaf-8
 Link: http://visualdslab.com/largenetvis
 
 
-## Preprint and published versions
+## Published paper
+
+The system was first published in 2022 on the IEEE Transactions on Visualization and Computer Graphics (TVCG) journal.
+
+* C. D. G. Linhares, J. R. Ponciano, et al., "ClinicalPath: a Visualization tool to Improve the Evaluation of Electronic Health Records in Clinical Decision-Making," in IEEE Transactions on Visualization and Computer Graphics, doi: [https://doi.org/10.1109/TVCG.2022.3209477](https://doi.org/10.1109/TVCG.2022.3209477).
+
+* ```sh
+  @ARTICLE{9903295,
+  author={Linhares, Claudio D. G. and Ponciano, Jean R. and Pedro, Diogenes S. and Rocha, Luis E. C. and Traina, Agma J. M. and Poco, Jorge},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={LargeNetVis: Visual Exploration of Large Temporal Networks Based On Community Taxonomies}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-11},
+  doi={10.1109/TVCG.2022.3209477}
+  }
+
+
+## Preprint paper
 
 The article is freely available on arXiv in a preprint version: [https://doi.org/10.48550/arXiv.2208.04358](https://doi.org/10.48550/arXiv.2208.04358).
-
-It is also published at https://doi.org/10.1109/TVCG.2022.3209477
 
 
 ## Visualization example

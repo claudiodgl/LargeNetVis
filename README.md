@@ -3,7 +3,7 @@
 
 LargeNetVis is a visualization system  designed to assist in analyzing small and large temporal networks.
 
-The system leverage three taxonomies focused on network communities to guide the visual exploration process.
+The system leverages three taxonomies focused on network communities to guide the visual exploration process.
 
 ## Video demonstration
 
@@ -16,9 +16,11 @@ https://user-images.githubusercontent.com/2184371/183482112-11f4d039-c43d-4eaf-8
 Link: http://visualdslab.com/largenetvis
 
 
-## Preprint paper
+## Preprint and published versions
 
 The article is freely available on arXiv in a preprint version: [https://doi.org/10.48550/arXiv.2208.04358](https://doi.org/10.48550/arXiv.2208.04358).
+
+It is also published at https://doi.org/10.1109/TVCG.2022.3209477
 
 
 ## Visualization example
